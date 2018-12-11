@@ -1,0 +1,6 @@
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\RegexRules\RegexRules\bin\Debug\RegexRules.exe.config
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\RegexRules\RegexRules\bin\Debug\RegexRules.exe
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\RegexRules\RegexRules\bin\Debug\RegexRules.pdb
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\RegexRules\RegexRules\obj\Debug\RegexRules.csprojResolveAssemblyReference.cache
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\RegexRules\RegexRules\obj\Debug\RegexRules.exe
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\RegexRules\RegexRules\obj\Debug\RegexRules.pdb
